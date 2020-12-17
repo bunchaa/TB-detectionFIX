@@ -36,18 +36,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>BTA bergerombol</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1456</xmin>
-			<ymin>1177</ymin>
-			<xmax>1544</xmax>
-			<ymax>1257</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>BTA</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
