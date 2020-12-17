@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>BTA bergerombol</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>888</xmin>
-			<ymin>1071</ymin>
-			<xmax>944</xmax>
-			<ymax>1142</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>BTA</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
