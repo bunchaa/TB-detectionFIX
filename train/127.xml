@@ -203,16 +203,4 @@
 			<ymax>886</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>BTA bergerombol</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2026</xmin>
-			<ymin>895</ymin>
-			<xmax>2118</xmax>
-			<ymax>948</ymax>
-		</bndbox>
-	</object>
 </annotation>
